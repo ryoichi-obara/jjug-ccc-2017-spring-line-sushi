@@ -3,8 +3,8 @@
 ## Execution
 
 ```
-$ javac Sushi.java
+$ javac LineSushi.java
 
-$ java Sushi
+$ java LineSushi
 ```
 
